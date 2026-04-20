@@ -1,3 +1,2 @@
-Dependencies:
-- #include<DHT.h>
+#include<DHT.h>
 
