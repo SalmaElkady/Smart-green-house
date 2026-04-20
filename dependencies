@@ -1,0 +1,3 @@
+Dependencies:
+- DHT sensor library by Adafruit (>=1.4.4)
+- Adafruit Unified Sensor (>=1.1.9)
